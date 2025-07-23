@@ -1,0 +1,6 @@
+fastapi
+pipenv
+uvicorn
+streamlit
+pydantic
+langgraph
